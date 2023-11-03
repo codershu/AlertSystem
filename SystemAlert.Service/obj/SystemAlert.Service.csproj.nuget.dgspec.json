@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Service\\SystemAlert.Service.csproj": {}
+    "C:\\Repo\\AlertSystem\\SystemAlert.Service\\SystemAlert.Service.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj": {
+    "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
+        "projectUniqueName": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
         "projectName": "SystemAlert.Data.Context",
-        "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
+        "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
         "packagesPath": "C:\\Users\\Shu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\obj\\",
+        "outputPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {
+    "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
+        "projectUniqueName": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
         "projectName": "SystemAlert.Data.Model",
-        "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
+        "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
         "packagesPath": "C:\\Users\\Shu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\obj\\",
+        "outputPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\SystemAlert.IService.csproj": {
+    "C:\\Repo\\AlertSystem\\SystemAlert.IService\\SystemAlert.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\SystemAlert.IService.csproj",
+        "projectUniqueName": "C:\\Repo\\AlertSystem\\SystemAlert.IService\\SystemAlert.IService.csproj",
         "projectName": "SystemAlert.IService",
-        "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\SystemAlert.IService.csproj",
+        "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.IService\\SystemAlert.IService.csproj",
         "packagesPath": "C:\\Users\\Shu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\obj\\",
+        "outputPath": "C:\\Repo\\AlertSystem\\SystemAlert.IService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Service\\SystemAlert.Service.csproj": {
+    "C:\\Repo\\AlertSystem\\SystemAlert.Service\\SystemAlert.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Service\\SystemAlert.Service.csproj",
+        "projectUniqueName": "C:\\Repo\\AlertSystem\\SystemAlert.Service\\SystemAlert.Service.csproj",
         "projectName": "SystemAlert.Service",
-        "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Service\\SystemAlert.Service.csproj",
+        "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.Service\\SystemAlert.Service.csproj",
         "packagesPath": "C:\\Users\\Shu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Service\\obj\\",
+        "outputPath": "C:\\Repo\\AlertSystem\\SystemAlert.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -203,14 +203,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj": {
-                "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj"
+              "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj": {
+                "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj"
               },
-              "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {
-                "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj"
+              "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {
+                "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj"
               },
-              "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\SystemAlert.IService.csproj": {
-                "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\SystemAlert.IService.csproj"
+              "C:\\Repo\\AlertSystem\\SystemAlert.IService\\SystemAlert.IService.csproj": {
+                "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.IService\\SystemAlert.IService.csproj"
               }
             }
           }

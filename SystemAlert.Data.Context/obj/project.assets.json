@@ -645,11 +645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
+      "projectUniqueName": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
       "projectName": "SystemAlert.Data.Context",
-      "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
+      "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\SystemAlert.Data.Context.csproj",
       "packagesPath": "C:\\Users\\Shu\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Context\\obj\\",
+      "outputPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Context\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shu\\AppData\\Roaming\\NuGet\\NuGet.Config",

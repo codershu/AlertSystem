@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDpfOjfPoKV7ek1Jfuq+aX+Ja0GcWn02RrhX5gcuk4aoV9kwgnTNswCI9LAsY10/ydpsyqBrRquv86yEJHQaPg==",
+  "dgSpecHash": "d03o0SbtVtam/rfy/WGj6+wr2vPlioPvs7o0MoD7MWdCZJssGXBJBIjZ1S4HttmG07TX1r9MtXiiOaGHgGyjlg==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Service\\SystemAlert.Service.csproj",
+  "projectFilePath": "C:\\Repo\\AlertSystem\\SystemAlert.Service\\SystemAlert.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Shu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

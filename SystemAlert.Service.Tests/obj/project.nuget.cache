@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7O666Cl/Oc5WpGkdnJrrSSY/go6bgTyCF8T5VAGkTyDV+hd9nK9vYKM8OaPOMjbydtEAF9ukeqMtmdB1TE3Qw==",
+  "dgSpecHash": "GrDVuFN7gI26SbD7POZ9uhJsF8Fdcr4zmj9MtStPjj1r7GgdeapLTE8qSEe3LbQ5vcgoI9HC2oKXpE+st5i6QA==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Service.Tests\\SystemAlert.Service.Tests.csproj",
+  "projectFilePath": "C:\\Repo\\AlertSystem\\SystemAlert.Service.Tests\\SystemAlert.Service.Tests.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

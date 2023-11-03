@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {}
+    "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {
+    "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
+        "projectUniqueName": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
         "projectName": "SystemAlert.Data.Model",
-        "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
+        "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\SystemAlert.Data.Model.csproj",
         "packagesPath": "C:\\Users\\Shu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.Data.Model\\obj\\",
+        "outputPath": "C:\\Repo\\AlertSystem\\SystemAlert.Data.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shu\\AppData\\Roaming\\NuGet\\NuGet.Config",

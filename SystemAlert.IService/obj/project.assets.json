@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\SystemAlert.IService.csproj",
+      "projectUniqueName": "C:\\Repo\\AlertSystem\\SystemAlert.IService\\SystemAlert.IService.csproj",
       "projectName": "SystemAlert.IService",
-      "projectPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\SystemAlert.IService.csproj",
+      "projectPath": "C:\\Repo\\AlertSystem\\SystemAlert.IService\\SystemAlert.IService.csproj",
       "packagesPath": "C:\\Users\\Shu\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\SystemAlert\\SystemAlert.cs\\SystemAlert.IService\\obj\\",
+      "outputPath": "C:\\Repo\\AlertSystem\\SystemAlert.IService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shu\\AppData\\Roaming\\NuGet\\NuGet.Config",

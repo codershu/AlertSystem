@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SystemAlert.Service
-build_property.ProjectDir = C:\Repo\SystemAlert\SystemAlert.cs\SystemAlert.Service\
+build_property.ProjectDir = C:\Repo\AlertSystem\SystemAlert.Service\
