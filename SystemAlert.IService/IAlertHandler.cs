@@ -14,5 +14,6 @@ namespace SystemAlert.IService
         Task<Response<bool>> DeleteAlertConfiguration(Guid alertConfigurationId);
         Task<Response<List<AlertTypeItem>>> GetAlertTypes();
         Task<Response<bool>> ProcessAlertMessage(AlertView alert);
+        Task SendAlertAsync(AlertView alert);
     }
 }

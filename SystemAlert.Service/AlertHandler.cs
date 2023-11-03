@@ -204,5 +204,20 @@ namespace SystemAlert.Service
             }
             return Response<bool>.Error(ResponseCode.CodeNumbers.ALTE015);
         }
+
+        public Task SendAlertAsync(AlertView alert)
+        {
+            alert.CustomerId = alert.CustomerId == Guid.Empty ? _userContext.CustomerId : alert.CustomerId;
+            if (Guid.Empty == alert.CustomerId)
+            {
+                _logger.LogError("Error sending Alert: AlertTypeId:{0} ResourceId:{1} Content:{2}", alert.AlertTypeId, alert.ResourceId, alert.Content);
+                return Task.CompletedTask;
+            }
+            else
+            {
+                var queuename = _config["ServiceBus:AlertQueue"];
+                return _servicebus.SendMessageToQueueAsync(alert, queuename);
+            }
+        }
     }
 }
